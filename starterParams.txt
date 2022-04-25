@@ -1,0 +1,1 @@
+ -epool stratum+tcp://gate.emcd.io:7777 -ewal dannebey -pass x -worker worker -coin eth
